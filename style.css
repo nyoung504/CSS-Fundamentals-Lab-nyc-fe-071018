@@ -14,13 +14,7 @@ h1 {
     width: 50%;
 }
 
-nav a {
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  background: gray;
-  
-}
+
 
 nav {
     display: block;
